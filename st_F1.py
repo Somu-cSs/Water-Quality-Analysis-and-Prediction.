@@ -14,7 +14,8 @@ if ra == "Analysis":
     # This is for Ap data
     if rad == 'Andhra Pradesh':
         st.subheader("Andhra Pradesh Water Analysis")
-        df = pd.read_csv("C:/Users/somas/OneDrive/Desktop/F_WQI_Ap_jan_2021.csv")
+        #df = pd.read_csv("C:/Users/somas/OneDrive/Desktop/F_WQI_Ap_jan_2021.csv")
+        df = pd.read_csv("https://github.com/Somu-uchisa/WQI_Streamlit/blob/main/AP_January_2021.csv")
         # st.write(df)
         if st.checkbox('View dataset'):
             st.write(df)
@@ -24,7 +25,7 @@ if ra == "Analysis":
     # This is for Tamilnadu
     if rad == 'TamilNadu':
         st.subheader("TamilNadu Water Analysis")
-        df = pd.read_csv("C:/Users/somas/OneDrive/Desktop/F_WQI_Ap_jan_2021.csv")
+        df = pd.read_csv("https://github.com/Somu-uchisa/WQI_Streamlit/blob/main/AP_January_2021.csv")
         # st.write(df)
         if st.checkbox('View dataset'):
             st.write(df)
