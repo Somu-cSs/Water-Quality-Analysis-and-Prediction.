@@ -4,7 +4,7 @@ import numpy as np
 
 
 st.title('Water Quality Analysis')
-st.image("water.jpg")
+st.image("water_quality_mason_jar.jpg")
 
 ra=st.sidebar.radio('Select an option',['Analysis','Prediction'])
 if ra == "Analysis":
