@@ -2,12 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-
-st.title('Water Quality Analysis')
-st.image("water_quality_mason_jar.jpg")
-
 ra=st.sidebar.radio('Select an option',['Analysis','Prediction'])
 if ra == "Analysis":
+     st.title('Water Quality Analysis')
+     st.image("water.jpg")
 
     #    "Analysis"
     rad = st.sidebar.selectbox('Select a State', ['Andhra Pradesh', 'TamilNadu'])
@@ -32,6 +30,9 @@ if ra == "Analysis":
         st.line_chart(df)
 
 if ra== "Prediction":
+    st.title('Water Quality Prediction')
+    st.image("pre.jpg")
+    
     st.write('Prediction')
     pre = st.sidebar.selectbox('Select a State', ['KNN', 'SVM','Random Forest','Desicion tress'])
 
