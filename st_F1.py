@@ -14,6 +14,7 @@ if ra == "Analysis":
     # This is for Ap data
     if rad == 'Andhra Pradesh':
         st.subheader("Andhra Pradesh Water Analysis")
+        #st.markdown(“link copied from powerbi web service”,unsafe_allow_html=True) to load a PowerBi Dashboard
         #df = pd.read_csv("C:/Users/somas/OneDrive/Desktop/F_WQI_Ap_jan_2021.csv")
         df = pd.read_csv("https://github.com/Somu-uchisa/WQI_Streamlit/blob/main/AP_January_2021.csv")
         # st.write(df)
