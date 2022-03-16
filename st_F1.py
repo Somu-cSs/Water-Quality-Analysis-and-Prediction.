@@ -37,7 +37,7 @@ if ra== "Prediction":
     st.image("pre.jpg")
 
     st.write('Prediction')
-    pre = st.sidebar.selectbox('Select a State', ['KNN', 'SVM','Random Forest','Desicion tress'])
+    pre = st.sidebar.selectbox('Select a State', ['Linear Regression', 'Ridge','Decision tree','Random Forest',])
 
     if pre == 'KNN':
         st.write('KNN')
