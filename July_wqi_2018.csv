@@ -1,0 +1,99 @@
+,S.No.,Station_name,District/RO,Monitoring_date,pH,TA,Cl,Ca,Mg,Sulphate,Na,TDS,K,F,wqi,quality
+0,1,"Upstream of river Krishna at
+Prakasam barrage","Krishna /
+Vijayawada",09.07.2018,7.21,88.0,24.0,21.0,6.0,24.0,30.0,170.0,2.4,0.16,16.237451930592467,Excellent
+1,2,"Upstream of Pennar river at
+Somasila","Nellore /
+Nellore",06.07.2018,8.21,182.0,185.0,35.0,92.0,130.0,56.0,660.0,10.8,0.74,77.0584075868897,Very poor
+2,3,"Puligadda aqueduct near
+Avanigadda (V)","Krishna /
+Vijayawada",31.07.2018,7.18,122.0,9420.0,56.0,175.0,1080.0,5620.0,19920.0,136.0,0.62,163.4158668125684,Not suitable
+3,4,River Krishna at Amaravathi,"Krishna /
+Vijayawada",09.07.2018,7.87,112.0,40.0,27.0,13.0,36.0,28.0,228.0,3.0,0.22,25.886396748475846,Good
+4,5,"Downstream of Krishna river at
+Vedadri","Krishna /
+Vijayawada",09.07.2018,7.83,176.0,141.0,36.0,37.0,74.0,90.0,510.0,5.8,0.78,73.24370277734354,Poor
+5,6,"2nd Causeway, Pulicot lake","Nellore /
+Nellore",04.07.2018,7.5,174.0,13800.0,420.0,980.0,2600.0,7600.0,26900.0,64.0,0.8,184.53730915533325,Not suitable
+6,7,"Budameru canal near BDG at
+NH-5, Keesarapalli","Krishna /
+Vijayawada",31.07.2018,7.24,162.0,92.0,40.0,21.0,18.0,52.0,365.0,4.0,0.52,47.092079620655525,Good
+7,8,"Guntatippa drain B/C with
+Ryves canal at Ramavarapadu,
+Vijayawada","Krishna /
+Vijayawada",31.07.2018,7.29,298.0,220.0,74.0,43.0,58.0,96.0,756.0,14.0,0.92,86.71234745453599,Very poor
+8,9,"Downstream of Paleru river at
+Jaggaiahpet","Krishna/
+Vijayawada",09.07.2018,7.86,250.0,165.0,51.0,49.0,74.0,104.0,648.0,4.2,0.58,57.445780834766296,Poor
+9,10,"Down stream of Munneru River
+at keesara","Krishna/
+Vijayawada",09.07.2018,8.03,194.0,120.0,35.0,18.0,80.0,110.0,520.0,4.8,0.62,60.62437600958782,Poor
+10,11,"D/s of River krishna after
+Confluence with treated
+Sewage dischsrging from 10","Krishna/
+Vijayawada",,7.444242424242424,200.32258064516128,1004.483870967742,166.6451612903226,154.1290322580645,204.25806451612902,562.1612903225806,2194.181818181818,15.947096774193549,0.6148387096774195,71.66317935108574,Poor
+11,12,"River Pennar at Siddavatam ,
+YSR District","Kadapa/Tiru
+pathi",10.07.2018,6.7,428.0,352.0,297.0,288.0,202.0,250.0,1322.0,36.0,0.9,105.68110364233235,Not suitable
+12,13,"River Thungabhadra at
+Bhavapuram","Kurnool /
+Kurnool",09.07.2018,8.0,169.0,157.0,98.0,85.0,174.0,171.0,688.0,6.0,0.9,86.74610181856079,Very poor
+13,14,"River Krishna at
+Sangameswaram","Kurnool /
+Kurnool",11.07.2018,7.5,268.0,240.0,130.0,179.0,187.0,217.0,941.0,7.0,0.3,40.2817013183263,Good
+14,15,River Pennar at Unganoor,"Ananthapur
+/ Kurnool",09.07.2018,7.3,218.0,83.0,41.0,44.0,43.0,141.0,441.0,4.0,1.2,102.76145849617008,Not suitable
+15,16,"River Pennar at Pushpagiri
+,YSR Kadapa District","Kadapa /
+Tirupathi",10.07.2018,6.9,523.0,414.0,317.0,305.0,225.0,302.0,1588.0,60.0,1.1,137.47597988640513,Not suitable
+16,17,"River Thungabhadra at
+Manthralayam","Kurnool/Kur
+nool",07.07.2018,7.8,198.0,199.0,126.0,106.0,240.0,221.0,887.0,6.0,0.8,78.94825230576834,Very poor
+17,18,"River Hundri atLaxmipuram
+village Dried","Kurnool/Kur
+nool",09.07.2018,7.7,342.0,1016.0,427.0,768.0,465.0,453.0,2674.0,21.0,1.4,162.48832838309625,Not suitable
+18,19,River Kundu at Nandyal,"Kurnool/Kur
+nool",09.07.2018,7.4,338.0,227.0,179.0,138.0,115.0,194.0,884.0,15.0,1.1,107.21954249387736,Not suitable
+19,20,D/s. of Srishailam,"Kurnool/Kur
+nool",07.07.2018,7.9,152.0,68.0,94.0,65.0,72.0,72.0,374.0,4.0,0.07,17.572407899536245,Excellent
+20,21,River Godavari at Polavaram,"West
+Godavari /
+Eluru",16.07.2018,6.49,88.0,24.0,56.0,40.0,16.0,5.0,160.0,1.0,0.77,61.10951227137721,Poor
+21,22,"U/s of River Godavari at
+Rajahmundry (Kumaradevam)","West
+Godavari /
+Eluru",16.07.2018,6.74,96.0,25.0,56.0,36.0,10.0,7.0,156.0,1.0,0.85,68.93545255588558,Poor
+22,23,"D/s of River Godavari at
+Rajahmundry (Dhavaleswaram)","East
+Godavari /
+Kakinada",11.07.2018,7.45,92.0,14.0,50.0,30.0,14.0,6.0,142.0,1.0,0.57,50.75233078005314,Poor
+23,24,"River Nagavali at Thotapally
+Regulatory","Vizianagara
+m /
+Vizianagara",10.07.2018,7.69,176.0,24.0,80.0,40.0,11.0,14.0,210.0,2.0,0.15,20.28031368870825,Excellent
+24,25,"River Vamsadhara at Gara,
+Kalingapatnam","Vizianagara
+m",10.07.2018,6.94,160.0,54.0,90.0,80.0,20.0,36.0,356.0,2.0,0.1,13.129969256422285,Excellent
+25,26,"Kondakarla-Ava Lake,
+Kondakarla","Visakhapatn
+am",07.07.2018,7.66,280.0,181.0,140.0,80.0,16.0,94.0,580.0,4.0,0.67,65.4743192121307,Poor
+26,27,"Tulje bagh canal, Tekri drain",Kakinada,11.07.2018,7.54,260.0,2247.0,980.0,550.0,158.0,960.0,4890.0,34.0,0.19,75.83639205877756,Very poor
+27,28,"River Godavari at Rajahmundry
+U/s of Nalla channel","East
+Godavari /
+Kakinada",11.07.2018,7.77,92.0,15.0,40.0,40.0,16.0,8.0,196.0,1.16,0.78,69.78627481632014,Poor
+28,29,"River Godavari at Rajahmundry
+D/s of Nalla channel","East
+Godavari /
+Kakinada",11.07.2018,7.54,88.0,24.0,40.0,40.0,12.0,10.0,154.0,2.0,0.44,41.6957042363608,Good
+29,30,"Tulia bagh drain at
+Vemulavada","East
+Godavari",11.07.2018,7.57,190.0,1473.0,950.0,330.0,119.0,439.0,3180.0,30.0,0.34,75.56682872179667,Very poor
+30,31,"Outlet of STP on river Godavari
+at Rajahmundry","East
+Godavari",11.07.2018,7.51,128.0,15.0,50.0,50.0,15.0,8.0,172.0,1.2,0.32,32.03267364910635,Good
+31,32,Samarla kota canal,Kakinada,11.07.2018,7.56,166.0,80.0,130.0,50.0,28.0,33.0,336.0,7.0,0.15,23.414460424157156,Excellent
+32,33,Inlet of STP at Rajahmundry,"East
+Godavari",11.07.2018,6.91,200.32258064516128,1004.483870967742,166.6451612903226,154.1290322580645,204.25806451612902,562.1612903225806,820.0,15.947096774193549,0.6148387096774195,67.88437242928055,Poor
+33,34,Outlet of STP at Rajahmundry,"East
+Godavari",11.07.2018,6.87,200.32258064516128,1004.483870967742,166.6451612903226,154.1290322580645,204.25806451612902,562.1612903225806,580.0,15.947096774193549,0.6148387096774195,67.55771931063117,Poor
